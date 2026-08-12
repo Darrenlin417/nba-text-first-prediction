@@ -1,0 +1,31 @@
+teamId,teamCity,teamName,prev5_win_pct,prev5_avg_points,prev10_win_pct,prev10_avg_points,top_scorer_firstName,top_scorer_lastName,top_scorer_value,top_playmaker_firstName,top_playmaker_lastName,top_playmaker_value,top_rebounder_firstName,top_rebounder_lastName,top_rebounder_value
+1610612754,Indiana,Pacers,0.2,107.4,0.4,118.8,Obi,Toppin,15.8,Kam,Jones,5.6,Micah,Potter,8.2
+1610612751,Brooklyn,Nets,0.4,105.2,0.3,103.2,E.J.,Liddell,15.6,Malachi,Smith,4.6,Trevon,Scott,5.6
+1610612749,Milwaukee,Bucks,0.4,111.6,0.3,110.1,Cormac,Ryan,18.0,Jericho,Sims,5.6,Jericho,Sims,7.4
+1610612764,Washington,Wizards,0.0,114.8,0.1,115.3,Will,Riley,20.4,Sharife,Cooper,4.6,Julian,Reese,11.4
+1610612763,Memphis,Grizzlies,0.0,111.4,0.1,111.3,Dariq,Whitehead,14.4,Jahmai,Mashack,4.8,Rayan,Rupert,7.0
+1610612762,Utah,Jazz,0.2,123.6,0.1,120.6,Brice,Sensabaugh,23.6,John,Konchar,6.4,Oscar,Tshiebwe,10.0
+1610612740,New Orleans,Pelicans,0.2,120.2,0.1,113.9,Jeremiah,Fears,28.8,Jeremiah,Fears,5.2,Derik,Queen,7.8
+1610612742,Dallas,Mavericks,0.2,118.2,0.2,115.0,Cooper,Flagg,33.0,Ryan,Nembhard,6.0,Moussa,Cisse,9.8
+1610612741,Chicago,Bulls,0.4,111.4,0.2,117.1,Tre,Jones,23.2,Tre,Jones,6.0,Leonard,Miller,8.4
+1610612758,Sacramento,Kings,0.6,115.6,0.4,112.3,Maxime,Raynaud,17.0,Nique,Clifford,4.4,Maxime,Raynaud,9.6
+1610612748,Miami,Heat,0.6,128.8,0.5,125.8,Jaime,Jaquez Jr.,20.8,Davion,Mitchell,6.2,Bam,Adebayo,10.0
+1610612746,LA,Clippers,0.6,115.2,0.6,113.9,Kawhi,Leonard,25.6,Darius,Garland,5.2,Brook,Lopez,6.6
+1610612766,Charlotte,Hornets,0.6,112.2,0.6,114.7,LaMelo,Ball,29.4,LaMelo,Ball,7.6,Moussa,Diabate,8.6
+1610612744,Golden State,Warriors,0.4,113.4,0.3,113.1,Stephen,Curry,23.2,Draymond,Green,8.0,Charles,Bassey,7.2
+1610612756,Phoenix,Suns,0.2,104.2,0.4,106.6,Jalen,Green,27.0,Devin,Booker,5.0,Royce,O'Neale,5.6
+1610612757,Portland,Trail Blazers,0.4,103.8,0.5,110.8,Deni,Avdija,26.0,Jrue,Holiday,6.6,Donovan,Clingan,9.0
+1610612737,Atlanta,Hawks,0.4,102.6,0.4,111.6,CJ,McCollum,20.8,Dyson,Daniels,6.0,Jalen,Johnson,7.6
+1610612743,Denver,Nuggets,0.4,109.4,0.7,121.1,Jamal,Murray,26.0,Nikola,Jokic,9.4,Nikola,Jokic,14.0
+1610612745,Houston,Rockets,0.4,102.8,0.6,112.7,Alperen,Sengun,21.0,Amen,Thompson,6.2,Alperen,Sengun,10.0
+1610612738,Boston,Celtics,0.4,104.6,0.6,112.2,Jaylen,Brown,24.2,Payton,Pritchard,4.6,Neemias,Queta,9.2
+1610612753,Orlando,Magic,0.4,95.6,0.5,104.3,Paolo,Banchero,24.6,Paolo,Banchero,6.8,Paolo,Banchero,9.0
+1610612761,Toronto,Raptors,0.6,111.2,0.6,114.9,Scottie,Barnes,24.8,Scottie,Barnes,9.4,RJ,Barrett,8.6
+1610612755,Philadelphia,76ers,0.4,101.8,0.4,102.0,Joel,Embiid,23.6,Joel,Embiid,5.6,Joel,Embiid,7.2
+1610612747,Los Angeles,Lakers,0.2,99.2,0.5,104.3,LeBron,James,24.4,LeBron,James,7.0,Deandre,Ayton,12.2
+1610612750,Minnesota,Timberwolves,0.4,103.6,0.6,108.5,Anthony,Edwards,23.6,Ayo,Dosunmu,3.2,Rudy,Gobert,9.0
+1610612765,Detroit,Pistons,0.4,109.4,0.6,107.1,Cade,Cunningham,26.2,Cade,Cunningham,8.6,Ausar,Thompson,6.8
+1610612739,Cleveland,Cavaliers,0.2,104.8,0.4,106.7,Donovan,Mitchell,24.4,James,Harden,4.0,Evan,Mobley,8.8
+1610612760,Oklahoma City,Thunder,0.6,109.0,0.7,113.9,Shai,Gilgeous-Alexander,24.4,Shai,Gilgeous-Alexander,8.2,Isaiah,Hartenstein,9.6
+1610612752,New York,Knicks,0.8,111.6,0.9,115.5,Jalen,Brunson,26.6,Josh,Hart,5.4,Karl-Anthony,Towns,11.4
+1610612759,San Antonio,Spurs,0.4,106.2,0.4,108.7,Victor,Wembanyama,26.6,De'Aaron,Fox,6.0,Victor,Wembanyama,9.8
