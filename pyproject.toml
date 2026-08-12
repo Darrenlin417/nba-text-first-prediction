@@ -1,0 +1,18 @@
+[project]
+name = "nba-win-market"
+version = "0.1.0"
+description = "NBA win-probability prototype fusing a Transformer text encoder with team statistics, with a live Streamlit demo."
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.1",
+    "transformers>=4.44,<4.45",
+    "streamlit>=1.32",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "altair>=5.0",
+    "scikit-learn>=1.3",
+    "kagglehub>=0.1.0",
+]
+
+[tool.uv]
+package = false
